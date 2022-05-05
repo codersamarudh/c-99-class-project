@@ -1,0 +1,39 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: rgb(0, 255, 68);
+}
+
+body{
+    background-color: cyan;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+h4{
+  color: chocolate;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border: 1px solid gold;
+}
+img{
+    width: 35%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0px 5px 6px orangered;
+}
+img:hover{
+    border-radius: 140px;
+}
+.column{
+    display: inline;
+    padding: 15px;
+}
